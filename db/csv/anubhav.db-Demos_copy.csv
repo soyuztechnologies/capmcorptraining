@@ -1,0 +1,6 @@
+DemoDate;CourseName;TrainerName;SeatsAvailable;SeatsBooked
+2021-02-01;ABAP on HANA;Anubhav Oberoy;100;98
+2021-03-01;UI5 and Fiori;Anubhav Oberoy;120;120
+2021-04-01;Cloud Platform;Anubhav Oberoy;150;85
+2021-04-04;Fiori Security;Anubhav Oberoy;100;50
+2021-02-06;Analytics Cloud;Anubhav Oberoy;120;90

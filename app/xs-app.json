@@ -1,0 +1,16 @@
+{
+    "welcomeFile": "managestudents/webapp/",
+    "authenticationMethod":"route",
+    "routes": [
+    {
+        "source": "^/managestudents/webapp/(.*)$",
+        "target": "$1",
+        "localDir": "managestudents/webapp/"
+    },
+    {
+        "source": "^(.*)$",
+        "authenticationType": "xsuaa",
+        "destination": "srv-api"
+    }
+    ]
+}
